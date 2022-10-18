@@ -29,3 +29,9 @@ button {
     font-size: 23px;
 }
 
+.fancy-even {
+    color: rgb(3, 194, 219);
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 20px
+}
