@@ -1,6 +1,6 @@
 /*Universal selector*/
 * {
-    font-family: monospace;
+    font-family: monospace, serif, sans-serif, cursive;
     font-size: large;
 }
 
