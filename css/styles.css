@@ -1,0 +1,5 @@
+/*Universal selector*/
+* {
+    font-family: monospace;
+    font-size: large;
+}
