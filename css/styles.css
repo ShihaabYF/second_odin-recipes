@@ -10,3 +10,11 @@ img {
     height: auto;
     width: 800px;
 }
+
+
+
+/*class selectors*/
+.textShrink {
+    height: auto;
+    width: 900px;
+}
