@@ -3,3 +3,10 @@
     font-family: monospace;
     font-size: large;
 }
+
+
+/*Type selectors*/
+img {
+    height: auto;
+    width: 800px;
+}
