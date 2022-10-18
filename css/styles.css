@@ -20,6 +20,12 @@ button {
     background-color: rgb(238, 248, 221);
 }
 
+h1 {
+    margin-left: 10px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
 /*class selectors*/
 .textShrink {
     height: auto;
