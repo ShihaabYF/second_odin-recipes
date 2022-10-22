@@ -16,10 +16,6 @@ h3 {
     margin-top: 45px;
 }
 
-button {
-    background-color: rgb(238, 248, 221);
-}
-
 h1 {
     margin-left: 10px;
     margin-bottom: 30px;
@@ -41,4 +37,24 @@ h1 {
     margin-bottom: 15px;
     margin-top: 15px;
     margin-left: 20px
+}
+
+.button{
+    /*background-color: rgb(250, 192, 0);*/
+    background-color: rgb(60, 187, 181, 0.85);
+    color: white;
+    padding: 10px;
+    border: 0px;
+    border-radius: 400px;
+    margin: 10px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.anchor {
+    color: white;
+    font-weight: bold;
+    font-family: monospace,sans-serif,serif,Verdana, Geneva, Tahoma;
+    font-size: 20px;
+    text-indent: 2px;
 }
