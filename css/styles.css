@@ -24,6 +24,16 @@ h1 {
     margin-left: 10px;
     margin-bottom: 30px;
     margin-top: 20px;
+
+    background-color: rgb(3, 192, 217, 81%);
+    color: white;
+    
+    padding: 5px;
+    width: 775px;
+    border-radius: 9px;
+
+    text-align: center;
+
 }
 
 /*class selectors*/
