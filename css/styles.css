@@ -58,3 +58,12 @@ h1 {
     font-size: 20px;
     text-indent: 2px;
 }
+
+
+.magical-span {
+    background-color: rgb(253, 0, 0, 0.6);
+    border-radius: 2px;
+    color: white;
+    padding-left: 3px;
+    padding-right: 3px
+}
