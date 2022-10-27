@@ -27,7 +27,8 @@ h1 {
 
     background-color: rgb(3, 192, 217, 81%);
     color: white;
-    
+    font-size: 55px;
+
     padding: 5px;
     width: 775px;
     border-radius: 9px;
@@ -42,9 +43,6 @@ h1 {
     width: 900px;
 }
 
-.largeFont {
-    font-size: 23px;
-}
 
 .fancy-even {
     color: rgb(3, 194, 219);
