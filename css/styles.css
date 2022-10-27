@@ -12,8 +12,12 @@ img {
 }
 
 h3 {
-    color: rgb(255, 145, 20);
+    color: rgb(255, 255, 255);
+    background-color: rgba(255, 153, 0, 0.863);
     margin-top: 45px;
+    width: 140px;
+    padding-left: 4px;
+    border-radius: 4px;
 }
 
 h1 {
