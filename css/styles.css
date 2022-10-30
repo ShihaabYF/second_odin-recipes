@@ -19,6 +19,7 @@ html {
 img {
     height: auto;
     width: 800px;
+    max-width: 100%;
     display: block;
     margin: auto;
     border-radius: 6px;
@@ -42,6 +43,7 @@ h1 {
 
     padding: 20px 10px;
     width: 900px;
+    max-width: 100%;
     border-radius: 9px;
 
     text-align: center;
@@ -50,6 +52,7 @@ h1 {
 
 div {
     width: 900px;
+    max-width: 100%;
     margin: auto;
     padding: 5px;
 }
