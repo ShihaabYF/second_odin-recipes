@@ -47,6 +47,11 @@ h1 {
 
 }
 
+div {
+    width: 900px;
+    margin: auto;
+}
+
 /*class selectors*/
 
 .fancy-even {
