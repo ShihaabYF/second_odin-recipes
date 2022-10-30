@@ -19,6 +19,7 @@ html {
 img {
     height: auto;
     width: 800px;
+    display: block;
 }
 
 h3 {
