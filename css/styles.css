@@ -48,11 +48,6 @@ h1 {
 }
 
 /*class selectors*/
-.textShrink {
-    height: auto;
-    width: 900px;
-}
-
 
 .fancy-even {
     color: rgb(3, 194, 219);
