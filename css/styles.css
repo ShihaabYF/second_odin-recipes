@@ -35,6 +35,10 @@ img {
     border-radius: 6px;
 }
 
+img:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
 h3 {
     color: rgb(255, 255, 255);
     background-color: rgba(255, 153, 0, 0.863);
